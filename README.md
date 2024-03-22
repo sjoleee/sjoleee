@@ -14,7 +14,7 @@
 
 
 <a href="https://www.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/RESUME-129900?style=flat" /></a>
-<a href="https://www.blog.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/BLOG-F64714?style=flat" /></a>
+<a href="https://blog.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/BLOG-F64714?style=flat" /></a>
 [![Hits](https://hits.sh/github.com/sjoleee.svg?label=%F0%9F%90%B6&color=0cc9fd&labelColor=daf6ff)](https://hits.sh/github.com/sjoleee/)
 
 
