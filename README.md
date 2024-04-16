@@ -19,5 +19,5 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/sjoleee" width="400" height="160"/>
+  <img src="https://render.gitanimals.org/farms/sjoleee" height="180" />
 </a>
