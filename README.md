@@ -18,6 +18,4 @@
 [![Hits](https://hits.sh/github.com/sjoleee.svg?label=%F0%9F%90%B6&color=0cc9fd&labelColor=daf6ff)](https://hits.sh/github.com/sjoleee/)
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sjoleee" height="180" />
-</a>
+<img src="https://render.gitanimals.org/farms/sjoleee" height="180" />
