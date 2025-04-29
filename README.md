@@ -10,11 +10,11 @@
 ```
 
 <div align="center">
-<a href="https://blog.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/click!-blog?style=social&logo=readme&logoColor=0ABF53&label=블로그 | BLOG" /></a>
+<a href="https://blog.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/click!-blog?style=social&logo=readme&logoColor=0ABF53&label=%EB%B8%94%EB%A1%9C%EA%B7%B8%20%7C%20BLOG" /></a>
 </div>
 
 <div align="center">
-<a href="https://www.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/click!-resume?style=social&logo=readme&logoColor=2C5BB4&label=이력서 | RESUME" /></a>
+<a href="https://www.sjoleee.info" target="_blank"><img src="https://img.shields.io/badge/click!-resume?style=social&logo=readme&logoColor=2C5BB4&label=%EC%9D%B4%EB%A0%A5%EC%84%9C%20%7C%20RESUME" /></a>
 </div>
 
 
